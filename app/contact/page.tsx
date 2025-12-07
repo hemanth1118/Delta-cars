@@ -73,7 +73,7 @@ export default function ContactPage() {
           <div className="mb-12 text-center">
             <h1 className="text-4xl font-bold mb-4">Contact Us</h1>
             <p className="text-muted-foreground text-lg">
-              Have questions? We're here to help. Get in touch with us today.
+              Have questions? We&apos;re here to help. Get in touch with us today.
             </p>
           </div>
 
@@ -116,7 +116,7 @@ export default function ContactPage() {
             <CardHeader>
               <CardTitle>Send us a Message</CardTitle>
               <CardDescription>
-                Fill out the form below and we'll get back to you as soon as possible
+                Fill out the form below and we&apos;ll get back to you as soon as possible
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -186,7 +186,7 @@ export default function ContactPage() {
                   <div className="flex items-center space-x-2 p-4 bg-green-50 dark:bg-green-950 border border-green-200 dark:border-green-800 rounded-lg">
                     <CheckCircle2 className="h-5 w-5 text-green-600 dark:text-green-400" />
                     <p className="text-sm text-green-800 dark:text-green-200">
-                      Thank you! Your message has been sent successfully. We'll get back to you soon.
+                      Thank you! Your message has been sent successfully. We&apos;ll get back to you soon.
                     </p>
                   </div>
                 )}

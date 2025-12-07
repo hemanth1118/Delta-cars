@@ -6,8 +6,8 @@ import { CheckCircle2, AlertCircle, FileText, Shield, CreditCard, Clock } from "
 
 const requiredDocuments = [
   {
-    name: "Driver's License",
-    description: "Valid, non-expired driver's license",
+    name: "Driver&apos;s License",
+    description: "Valid, non-expired driver&apos;s license",
     required: true
   },
   {
@@ -284,7 +284,7 @@ export default function DocsPage() {
                 </li>
                 <li className="flex items-start space-x-2">
                   <span className="mt-1">•</span>
-                  <span>Reservation fee ($100) will be applied to your first month's payment</span>
+                  <span>Reservation fee ($100) will be applied to your first month&apos;s payment</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span className="mt-1">•</span>
